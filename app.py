@@ -1,3 +1,6 @@
+
+# Url da documentacao: https://livraria-cxub.onrender.com/doc/swagger#/default/obterLivros
+# Base Url: https://livraria-cxub.onrender.com
 # Consulte primeiro o arquivo README.md para entender mais o projeto
 
 from typing import Optional

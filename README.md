@@ -14,15 +14,19 @@ Para ficar informado sobre futuros processos seletivos, siga a gente no Instagra
 
 
 
-# 1. Ojetivo: Criar apis para gerenciar os livros de uma livraria
-# 2. Base Url: localhost
+# 1. Ojetivo: 
+    #Criar apis para gerenciar os livros de uma livraria
+# 2. BaseUrl: 
+    #localhost ou Url de prod 
 # 3. Endpoints
     # - BaseUrl/Livros (GET) para consultar todos os livros cadastrados
     # - BaseUrl/Livros/id (GET) para consultar um unico livro cadastrado
     # - BaseUrl/Livros (POST) Para cadastrar um livro
     # - BaseUrl/Livros/id (PUT) Para modificar os dados de um livro
     # - BaseUrl/Livros/ (DELETE) Para deletar um livro cadastrado
-# 4. Recursos - Livos, Lista de livros
+
+# 4. Recursos 
+    #Livos, Lista de livros
 
 # 5. Passos para executar o projeto apos baixar do github
         - ter python configurado no computador
