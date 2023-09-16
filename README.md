@@ -18,7 +18,7 @@
 
 # "pip freeze >  requirement.txt" para gerar todas as dependencias do app
 
-
+# Provavel link da documentacao: http://127.0.0.1:5000//doc/swagger#/ para saber sobres os principais urls do projeto roda "flask routes"
 
 
 
