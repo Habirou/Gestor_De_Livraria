@@ -26,7 +26,7 @@ Para ficar informado sobre futuros processos seletivos, siga a gente no Instagra
     # - BaseUrl/Livros/ (DELETE) Para deletar um livro cadastrado
 
 # 4. Recursos 
-    #Livos, Lista de livros
+    #Livros, Lista de livros
 
 # 5. Passos para executar o projeto apos baixar do github
         - ter python configurado no computador
